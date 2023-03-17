@@ -20,7 +20,7 @@
 - Map
 - Array
 - Promise
-- REgExp
+- RegExp
 
 etc.
 
